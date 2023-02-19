@@ -5,4 +5,4 @@ Alur Fitur Login:
 1. Memasukkan email dan password
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
-4. Menampilkan diagram
+4. Menampilkan profil
